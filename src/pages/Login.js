@@ -2,7 +2,9 @@
 export default function Login(){
 
     return(
-            <p>hello</p>
+            <form>
+                <input type="text" required pattern=".* .*" placeholder="Username"/>
+            </form>
     )
 
 }
