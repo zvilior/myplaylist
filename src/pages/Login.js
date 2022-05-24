@@ -1,5 +1,5 @@
 
-export default function Test(){
+export default function Login(){
 
     return(
             <p>hello</p>
