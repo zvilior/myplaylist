@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import Test from './components/Test';
+import Test from './pages/Test';
 
 function App() {
   return (
@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <Test/>
+          <Test />
           plat with music
         </a>
       </header>
