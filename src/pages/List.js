@@ -1,6 +1,9 @@
-export default function List(){
+import { useContext } from "react"
 
-    return(
-        <div>my playlist</div>
+export default function List() {
+
+
+    return (
+        <div> playlist</div>
     )
 }
