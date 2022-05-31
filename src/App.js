@@ -1,15 +1,10 @@
 import './App.css';
-import Login from './pages/Login';
-import List from './pages/List';
-import Search from './pages/Search';
-import Router from './Router';
-import Header from './Header';
+import Layout from './Layout';
 
 function App() {
   return (
     <div className="App">
-      <Header />
-      <Router />
+      <Layout />
 
     </div>
   );
